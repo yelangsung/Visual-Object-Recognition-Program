@@ -20,7 +20,8 @@ Constructed both the embedded system and the computational pipeline, developing 
 ### Step2. while obtaining images(Default)
 - ![image](https://github.com/yelangsung/Visual-Object-Recognition-Program/assets/113841190/ecb4f1ff-6997-4873-bafd-0a3c16ea9aad)
 
-### Step3. sub Vi 
+### Step3. sub Vi
+
 - converting the data type, which is used to store images and is different from the data type handled in Python, into a data type that can be used for both.
 - ![image](https://github.com/yelangsung/Visual-Object-Recognition-Program/assets/113841190/9202b370-9efa-4ca2-b6a5-da78b03fd32e)
 
